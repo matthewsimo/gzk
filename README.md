@@ -7,7 +7,7 @@ gzip keep - little bash script to run gzip on a file nondestructively
 
 ### Usage:
 
-`$ gzk [file]`
+`$ gzk yo-mamma.file` results in `yo-mamma.file.gzip` being created while the `yo-mamma.file` is left intact. 
 
 
 ### Install: 
